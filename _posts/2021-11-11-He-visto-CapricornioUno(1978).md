@@ -2,14 +2,14 @@
 
 layout: post
 title: "He Visto: Capricornio Uno (1978)"
-
+tags: película
 ---
 
 
 Vamos a hacer una reseña de ésta peli de ciencia ficción y que alimenta el mito que el hombre nunca viajó a la Luna, sino que fué una simulación rodada por S. Kubrick con cámaras especiales.
 Pero vamos al lí. He visto **Capricornio Uno (Capricorn One)**
 
-<img title="" src="https://pics.filmaffinity.com/capricorn_one-358024038-mmed.jpg" alt="" data-align="center" width="251">
+<img title="" src="https://pics.filmaffinity.com/capricorn_one-358024038-mmed.jpg" alt="" data-align="center" width="200">
 
 ### Sinopsis
 
